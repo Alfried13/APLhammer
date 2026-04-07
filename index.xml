@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Custom Warhammer by Alfried" indexUrl="https://raw.githubusercontent.com/Alfried13/APLhammer/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Alfried-Warhammer-v0.1.gstz" dataType="gamesystem" dataId="330d-20ae-e3ae-307f" dataName="Alfried Warhammer v0.1" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Astra-Militarum-v0.1.catz" dataType="catalogue" dataId="0834-1c99-2f65-c31a" dataName="Astra Militarum" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Chaos-Space Marines-v0.1.catz" dataType="catalogue" dataId="88ba-bd08-3c5b-ec71" dataName="Chaos Space Marines v0.1" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Nurgle-Maggotking.catz" dataType="catalogue" dataId="cf03-434e-8bb5-cfed" dataName="Nurgle Maggotking" dataBattleScribeVersion="2.03" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
